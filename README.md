@@ -1,4 +1,3 @@
-autonomous-drone-traffic-control
 “Design and Development of Autonomous Drone Traffic Control System” — AIMLA 2025-Supplementary material & code for the IEEE paper.
 
 # 🚁 Autonomous Drone Traffic Control System
